@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\FunctionsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\IncludeLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\IncludeLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\FunctionsSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\FunctionsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\FunctionsSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\sha1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\sha1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\Messages.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E53F864-A8ED-4C08-AA75-63448DC77484}|final-project-for-2-block\\final-project-for-2-block.vcxproj|solutionrelative:final-project-for-2-block\\Messages.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\main.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\main.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\main.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T06:58:40.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionsMenu.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\FunctionsMenu.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.h",
+              "RelativeToolTip": "final-project-for-2-block\\FunctionsMenu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T10:12:37.721Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionsMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\FunctionsMenu.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsMenu.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\FunctionsMenu.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T10:14:13.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunctionsSystem.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\FunctionsSystem.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.h",
+              "RelativeToolTip": "final-project-for-2-block\\FunctionsSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T09:32:19.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionsSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\FunctionsSystem.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\FunctionsSystem.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\FunctionsSystem.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T09:33:50.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sha1.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\sha1.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\sha1.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-22T10:18:00.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sha1.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\sha1.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\sha1.h",
+              "RelativeToolTip": "final-project-for-2-block\\sha1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-22T10:02:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Messages.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\Messages.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\Messages.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T12:39:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\User.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.h",
+              "RelativeToolTip": "final-project-for-2-block\\User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T12:01:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.cpp",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\User.cpp",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\User.cpp",
+              "RelativeToolTip": "final-project-for-2-block\\User.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T12:40:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Messages.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\Messages.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\Messages.h",
+              "RelativeToolTip": "final-project-for-2-block\\Messages.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T12:29:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncludeLibrary.h",
+              "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\IncludeLibrary.h",
+              "RelativeDocumentMoniker": "final-project-for-2-block\\IncludeLibrary.h",
+              "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\final-project-for-2-block\\final-project-for-2-block\\IncludeLibrary.h*",
+              "RelativeToolTip": "final-project-for-2-block\\IncludeLibrary.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-20T10:38:53.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
